@@ -23,7 +23,7 @@ The UX research manager at CalED wants results relating to the follwing question
 <ul>
 <li>[Hospital Emergency Department - Characteristics by Facility (Pivot Profile)](https://data.chhs.ca.gov/dataset/hospital-emergency-department-characteristics-by-facility-pivot-profile)</li>
 <li>[Hospital Encounters by Facility to use ED visits and Admission data](https://data.chhs.ca.gov/dataset/hospital-emergency-department-encounters-by-facility/resource/eb592e95-d6bd-4ec7-9493-840978188c88)</li>
-<li>[COVID-19 Related Data for Addional Analysis](https://data.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state1/resource/6a1aaf21-2a2c-466b-8738-222aaceaa168)</li>
+<li>[COVID-19 Related Data for Additional Analysis](https://data.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state1/resource/6a1aaf21-2a2c-466b-8738-222aaceaa168)</li>
 </ul>
 
 ### Source: Location Datasets
