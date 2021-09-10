@@ -33,7 +33,7 @@ OSHPD collects the data from multiple healthcare institutions. Although the qual
 The dataset contains annual Excel pivot tables that display summaries of the patients treated in each Emergency Department (ED). The summary data include number of visits, expected payer, discharge disposition, age groups, sex, preferred language spoken and race groups.
 
 ## Data Relevancy 
-Based on the criteria outlined in the given project brief, the data contain more than 5 categorical and numeric variables, and over 5000 rows when combined before cleaning. The locations are on a facility level but the analysis with focus on counties within California. The county names will suffice because the numerical codes are available. The combined data are also timely, i.e., from 2005 to 2020.
+Based on the criteria outlined in the given project brief, the data contain more than 5 categorical and numeric variables, and over 5000 rows when combined before cleaning. The locations are on a facility level but the analysis with focus on counties within California. The county names will suffice because the numerical codes are available. The combined data are also timely, i.e., from 2012 to 2020.
 
 ## Why this dataset?
 I previously studied about patient privacy concerns and healthcare workers information needs. The chosen datasets fit my interests because I want to conduct analysis on a facility level as opposed to individuals. Open data related to healthcare that fit the criteria of the project brief are not readily available. After an intense search, this was the only dataset that fit my interest in emergencies and satisfies the requirements. I hope that this dataset will spur further investigations into emergency and privacy related datasets.
