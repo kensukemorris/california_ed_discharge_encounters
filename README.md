@@ -26,7 +26,7 @@ The UX research manager at CalED wants results relating to the follwing question
 <li>[COVID-19 Related Data for Addional Analysis](https://data.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state1/resource/6a1aaf21-2a2c-466b-8738-222aaceaa168)</li>
 </ul>
 
-###Source: Location Datasets
+### Source: Location Datasets
 <ul>
 <li>[California Boundaries from California's Government](https://data.ca.gov/dataset/ca-geographic-boundaries)</li>
 <li>[GeoJSON file from codeforgermany profile on Github](https://github.com/codeforgermany/click_that_hood/blob/master/public/data/california-counties.geojson)</li>
