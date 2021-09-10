@@ -1,0 +1,25 @@
+Field,Value
+Title,Hospital Emergency Department - Characteristics by Facility (Pivot Profile)
+URL,hospital-emergency-department-characteristics-by-facility-pivot-profile
+Description,"This dataset contains annual Excel pivot tables that display summaries of the patients treated in each Emergency Department (ED).  The Emergency Department data is sourced from two databases, the ED Treat-and-Release Database and the Inpatient Database (i.e. patients treated in the ED and then formally admitted to the hospital).  The summary data include number of visits, expected payer, discharge disposition, age groups, sex, preferred language spoken, race groups, principal diagnosis groups, and principal external cause of injury/morbidity groups.  The data can also be summarized statewide or for a specific hospital county, ED service level, teaching/rural status, and/or type of control."
+Tags,"ED,ED Pivot,ED admit,ED visit,ER,Emergency Department,OSHPD,Office of Statewide Health Planning and Development,age group,discharge disposition,emergency room,expected payer,gender,hospital,preferred language,principal cause of injury,principal cause of morbidity,principal diagnosis group,race group,sex"
+Department,Office of Statewide Health Planning & Development
+Contact Email,dataandreports@oshpd.ca.gov
+Program,"Office of Statewide Health Planning and Development, Healthcare Analytics Branch"
+Homepage URL,https://www.oshpd.ca.gov
+Temporal Coverage,2012-most current year available
+Spatial/Geographic Coverage,Statewide
+Geographic Granularity,Location Point
+Language,English
+Frequency,Annually
+De-Identification Method,https://chhsdata.github.io/dataplaybook/resource_library/#datade-id
+Source Link,
+Data Collection Tool,Patient Data Reporting
+License,See Terms of Use
+Limitations,Use of this data is subject to the CHHS Terms of Use and any copyright and proprietary notices incorporated in or accompanying the individual files.
+Additional Limitations,
+Additional Information,
+Related Resources,
+Secondary Sources,
+Citation,
+Show Twitter Popup,

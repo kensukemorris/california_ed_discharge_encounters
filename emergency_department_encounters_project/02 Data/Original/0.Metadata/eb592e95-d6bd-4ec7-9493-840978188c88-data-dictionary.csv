@@ -1,0 +1,12 @@
+column,type,label,description
+year,text,,Year of service.
+oshpd_id,text,OSHPD_ID,"A unique number established by the Office of Statewide Health Planning and Development (OSHPD) for identifying facilities and used in the Licensed Facility Information System (LFIS). The first three numbers identify the type of facility, the next two represent the county number, and the last five are randomly assigned within each county."
+facility_name,text,,"Name of the facility.
+"
+county_name,text,,County name where facility is located.
+er_service_level_desc,text,,"""Hospital services providing immediate initial evaluation and treatment of acutely ill or injured patients on a 24-hour basis.  Licensed EMS levels are: 
+1. Standby: Provision of emergency medical care in a specifically designated area of the hospital that is equipped and maintained at all times to receive patients with urgent medical problems, and is capable of providing physician service within a reasonable time. 2. Basic: Provision of emergency medical care in a specifically designated area of the hospital that is staffed and equipped at all times to provide prompt care for any patient presenting urgent medical problems. 3. Comprehensive: Provision of diagnostic and therapeutic services for unforeseen physical and mental disorders that, if not properly treated, would lead to marked suffering, disability, or death. The scope of services is comprehensive with in-house capability for managing all medical situations on a definitive and continuing basis. 4. Trauma: Emergency rooms which are staffed and equipped at the highest level to treat any and all severe trauma cases. A local Emergency Medical Services Agency determines the level of designation. 5. Blank or Not Applicable means that the hospital or healthcare facility does not have emergency services.""
+"
+type,text,Type of Encounter,"ED_Visit:  Encounter in which patient is treated in the Emergency Department and then released.
+ED_Admit: Encounter in which the patient is initially treated in the Emergency Department and then admitted to the same hospital for continued inpatient care."
+count,text,,Number of encounters.
