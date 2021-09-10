@@ -12,18 +12,19 @@ Conduct a preliminary investigation of discharge encounters related to patient r
 
 # Guiding Questions
 The UX research manager at CalED wants results relating to the follwing questions:
-<li>
-  <ul>What race group is has strong associations with patient discharge encounters?</ul>
-  <ul>Are there any additional profiles based on facilities related to patient discharge encounters?</ul>
-</li>
+<ul>
+  <li>What race group is has strong associations with patient discharge encounters?</li>
+  <li>Are there any additional profiles based on facilities related to patient discharge encounters?</li>
+</ul>
 
 # Data Overview
 ### Source: Datasets from the Office of Statewide Health Planning & Development (OSPHD)
-<li>
-<ul>[Hospital Emergency Department - Characteristics by Facility (Pivot Profile)](https://data.chhs.ca.gov/dataset/hospital-emergency-department-characteristics-by-facility-pivot-profile)</ul>
-<ul>[Hospital Encounters by Facility to use ED visits and Admission data](https://data.chhs.ca.gov/dataset/hospital-emergency-department-encounters-by-facility/resource/eb592e95-d6bd-4ec7-9493-840978188c88)</ul>
+
+<ul>
+<li>[Hospital Emergency Department - Characteristics by Facility (Pivot Profile)](https://data.chhs.ca.gov/dataset/hospital-emergency-department-characteristics-by-facility-pivot-profile)</li>
+<li>[Hospital Encounters by Facility to use ED visits and Admission data](https://data.chhs.ca.gov/dataset/hospital-emergency-department-encounters-by-facility/resource/eb592e95-d6bd-4ec7-9493-840978188c88)</li>
 <ul>[COVID-19 Related Data for Addional Analysis](https://data.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state1/resource/6a1aaf21-2a2c-466b-8738-222aaceaa168)</ul>
-</li>
+</ul>
 
 ## Data Collection 
 OSHPD collects the data from multiple healthcare institutions. Although the quality of the data depends how the institutions collect the data, the data is deemed trustworthy by the analyst. The data are sourced from two databases, the ED Treat-and-Release Database and the Inpatient Database (i.e., patients treated in the ED and then formally admitted to the hospital). 
@@ -39,8 +40,8 @@ I previously studied about patient privacy concerns and healthcare workers infor
 
 
 # Deliverables
-<li>
-  <ul>Python codes </ul>
-  <ul>[Tableau Report](https://public.tableau.com/views/InvestigatingEmergencyEncountersinCalifornia/Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)</ul>
-  <ul>[Storyboard Planning and Project Relection](https://drive.google.com/file/d/1BqoZd55Z-mw75ogBUxGXljTFnwbG7L8X/view?usp=sharing)</ul>
-</li>
+<ul>
+  <li>Python codes </li>
+  <li>[Tableau Report](https://public.tableau.com/views/InvestigatingEmergencyEncountersinCalifornia/Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)</li>
+  <li>[Storyboard Planning and Project Relection](https://drive.google.com/file/d/1BqoZd55Z-mw75ogBUxGXljTFnwbG7L8X/view?usp=sharing)</li>
+</ul>
