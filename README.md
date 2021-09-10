@@ -26,6 +26,14 @@ The UX research manager at CalED wants results relating to the follwing question
 <li>[COVID-19 Related Data for Addional Analysis](https://data.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state1/resource/6a1aaf21-2a2c-466b-8738-222aaceaa168)</li>
 </ul>
 
+###Source: Location Datasets
+<ul>
+<li>[California Boundaries from California's Government](https://data.ca.gov/dataset/ca-geographic-boundaries)</li>
+<li>[GeoJSON file from codeforgermany profile on Github](https://github.com/codeforgermany/click_that_hood/blob/master/public/data/california-counties.geojson)</li>
+</ul>
+
+
+
 ## Data Collection 
 OSHPD collects the data from multiple healthcare institutions. Although the quality of the data depends how the institutions collect the data, the data is deemed trustworthy by the analyst. The data are sourced from two databases, the ED Treat-and-Release Database and the Inpatient Database (i.e., patients treated in the ED and then formally admitted to the hospital). 
 
