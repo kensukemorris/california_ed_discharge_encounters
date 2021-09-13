@@ -1,3 +1,5 @@
+<p align="center"><img src="storyboard_white.png" alt="CaLED logo"></p>
+
 # Preliminary Analysis of Discharge Encounters of Healthcare Facilities in California, U.S.A.
 Uses the facility level datasets for a preliminary analysis into discharge encounters in California counties.
 
@@ -8,7 +10,6 @@ CaLED, a fictitious company, specializes in developing user experience (UX) rela
 
 # Goal
 Conduct a preliminary investigation of discharge encounters related to patient race groups and ED discharge types.
-
 
 # Guiding Questions
 The UX research manager at CalED wants results relating to the follwing questions:
@@ -33,7 +34,6 @@ The UX research manager at CalED wants results relating to the follwing question
 </ul>
 
 
-
 ## Data Collection 
 OSHPD collects the data from multiple healthcare institutions. Although the quality of the data depends how the institutions collect the data, the data is deemed trustworthy by the analyst. The data are sourced from two databases, the ED Treat-and-Release Database and the Inpatient Database (i.e., patients treated in the ED and then formally admitted to the hospital). 
 
@@ -53,3 +53,5 @@ I previously studied about patient privacy concerns and healthcare workers infor
   <li>[Tableau Report](https://public.tableau.com/views/InvestigatingEmergencyEncountersinCalifornia/Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)</li>
   <li>[Storyboard Planning and Project Relection](https://drive.google.com/file/d/1BqoZd55Z-mw75ogBUxGXljTFnwbG7L8X/view?usp=sharing)</li>
 </ul>
+
+<p align="center"><a href = "https://public.tableau.com/views/InvestigatingEmergencyEncountersinCalifornia/Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"><img src="tableau.png" alt="CaLED logo"></a></p>
