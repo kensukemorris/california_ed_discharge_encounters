@@ -1,4 +1,4 @@
-# california_ed_discharge_encounters
+# Preliminary Analysis of Discharge Encounters of Healthcare Facilities in California, U.S.A.
 Uses the facility level datasets for a preliminary analysis into discharge encounters in California counties.
 
 Note: this analysis do was conducted using publicly available data. The contents of this project are for educational purposes and a ficticious company.
